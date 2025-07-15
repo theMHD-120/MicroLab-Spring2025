@@ -21,9 +21,12 @@ Providers (as TAs):
 
 ### Section 1 - Arduino intro & General IO devices
 Content provided:
-- 1
-
-Tests performed:
+- PlatformIO installation:
+- Course introduction:
+- Slides:
+  - Dynamic (animated): Canva publick view link
+  - Static: PDF link
+Test performed:
 - 1
 
 ### Section 2 - Push button states & PWM
