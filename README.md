@@ -38,8 +38,8 @@ Providers (as TAs):
 
 ### Section 2 - Push button states & PWM
 **Content provided:**
-- Canva publick view link
-- PDF link
+- Canva publick view [link](https://www.canva.com/design/DAGjRY4AkSE/RXoEpOyIN_eVSMBpDlvxmA/view?utm_content=DAGjRY4AkSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf274450b30#7)
+- PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
 - 1
@@ -48,8 +48,8 @@ Providers (as TAs):
 
 ### Section 3 - The Serial communication feature
 **Content provided:**
-- Canva publick view link
-- PDF link
+- Canva publick view [link](https://www.canva.com/design/DAGkIHUE7HI/ufmnT9i3kL-Z994-q75gwA/view?utm_content=DAGkIHUE7HI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habdb5c5a64)
+- PDF [link](https://drive.google.com/file/d/13id41LRUTzm33Sfs6xXdrhpfH5QWYzwp/view?usp=sharing)
 
 **Tests performed:**
 - 1
@@ -58,8 +58,8 @@ Providers (as TAs):
 
 ### Section 4 - RGB LED interfacing (ADC preview)
 **Content provided:**
-- Canva publick view link
-- PDF link
+- Canva publick view [link](https://www.canva.com/design/DAGmabzd5tY/C6HXeW7UTUQ9xxLqCyyEdA/view?utm_content=DAGmabzd5tY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8520a416c3)
+- PDF [link](https://drive.google.com/file/d/19qMYNZHT5CoWjkFuKTUWVN-UxlrTfkw8/view?usp=sharing)
 
 **Tests performed:**
 - 1
@@ -68,8 +68,8 @@ Providers (as TAs):
 
 ### Section 5 - ADC & Analog processing
 **Content provided:**
-- Canva publick view link
-- PDF link
+- Canva publick view [link](https://www.canva.com/design/DAGniUkalic/gdKrg_XEj5Rqw-2wJF7-Vg/view?utm_content=DAGniUkalic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5093af7813)
+- PDF [link](https://drive.google.com/file/d/1BeG_RS_Gz6lEs-Fwlk0MNjOd7dRL7jte/view?usp=sharing)
 
 **Tests performed:**
 - 1
@@ -80,8 +80,12 @@ Providers (as TAs):
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
 **Content provided:**
-- Canva publick view link
-- PDF link
+- ESP32 introduction:  
+  - Canva publick view link
+  - PDF link
+- Main content:
+  - Canva publick view link
+  - PDF link
 
 **Tests performed:**
 - 1
