@@ -54,8 +54,6 @@ Content provided:
 Tests performed:
 - 1
 
-<br />
-
 ## DOIT ESP32 DEVKIT V1
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
