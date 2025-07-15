@@ -24,7 +24,7 @@ Providers (as TAs):
 - Basic videos:
   - PlatformIO installation [link]()
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
-- Arduino introduction:
+- Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
   - PDF [link](https://drive.google.com/file/d/1hW_fd6I6SuSR0mSpq4YUz-pJHqwpwPDm/view?usp=sharing)
 - Main content    
@@ -80,12 +80,12 @@ Providers (as TAs):
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
 **Content provided:**
-- ESP32 introduction:  
-  - Canva publick view link
-  - PDF link
+- Introduction to ESP32:  
+  - Canva publick view [link](https://www.canva.com/design/DAGoEsV-TJ0/_Als3Q9kh6-sl3G9EnTFXA/view?utm_content=DAGoEsV-TJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c4477d0a2#2)
+  - PDF [link](https://drive.google.com/file/d/14clnr2X-X9kDANPqDNf0kj-0gP3RSDJO/view?usp=sharing)
 - Main content:
-  - Canva publick view link
-  - PDF link
+  - Canva publick view [link](https://www.canva.com/design/DAGoReAoYPw/NQ2DqZ6t-h50hczArSH8Kg/view?utm_content=DAGoReAoYPw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5c019d11c)
+  - PDF [link](https://drive.google.com/file/d/1_kvRVCYVDAVNIAR-GBbX2U7f4OQXyHOu/view?usp=sharing)
 
 **Tests performed:**
 - 1
@@ -94,8 +94,11 @@ Providers (as TAs):
 
 ### Section 7 - Build your own Web Server
 **Content provided:**
-- Canva publick view link
-- PDF link
+- Main content:
+  - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
+  - PDF [link](https://drive.google.com/file/d/1yHuwImUXdbkfyDJuS-9yY3JXuicI1MUm/view?usp=sharing)
+- Basic introduction to Hellishots:
+  - 1
 
 **Tests performed:**
 - 1
