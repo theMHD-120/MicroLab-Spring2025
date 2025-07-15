@@ -9,8 +9,8 @@ Professor:
 - Dr. Farshad Khunjush
   
 Providers (as TAs):
-- Seyed Mahdi Mahdavi Mortazavi (@theMHD-120)
-- Sepehr Azhdari (@azhdarii)
+- Seyed Mahdi Mahdavi Mortazavi (@[theMHD-120](https://github.com/theMHD-120))
+- Sepehr Azhdari (@[azhdarii](https://github.com/azhdarii))
 
 <br />
 
@@ -21,8 +21,9 @@ Providers (as TAs):
 
 ### Section 1 - Arduino intro & General IO devices
 Content provided:
-- PlatformIO installation: 
-- Course introduction:
+- Basic videos:
+  - PlatformIO installation: 
+  - Course introduction:
 - Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
 - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
 
