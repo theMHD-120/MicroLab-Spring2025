@@ -34,6 +34,8 @@ Providers (as TAs):
 **Test performed:**
 - 1
 
+<br />
+
 ### Section 2 - Push button states & PWM
 **Content provided:**
 - Canva publick view link
@@ -41,6 +43,8 @@ Providers (as TAs):
 
 **Tests performed:**
 - 1
+
+<br />
 
 ### Section 3 - The Serial communication feature
 **Content provided:**
@@ -50,6 +54,8 @@ Providers (as TAs):
 **Tests performed:**
 - 1
 
+<br />
+
 ### Section 4 - RGB LED interfacing (ADC preview)
 **Content provided:**
 - Canva publick view link
@@ -57,6 +63,8 @@ Providers (as TAs):
 
 **Tests performed:**
 - 1
+
+<br />
 
 ### Section 5 - ADC & Analog processing
 **Content provided:**
@@ -77,6 +85,8 @@ Providers (as TAs):
 
 **Tests performed:**
 - 1
+
+<br />
 
 ### Section 7 - Build your own Web Server
 **Content provided:**
