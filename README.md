@@ -9,8 +9,8 @@ Professor:
 - Dr. Farshad Khunjush
   
 Providers (as TAs):
-- Seyed Mahdi Mahdavi Mortazavi (theMHD)
 - Sepehr Azhdari
+- Seyed Mahdi Mahdavi Mortazavi (theMHD)
 
 ## Table of contents
 
