@@ -22,8 +22,8 @@ Providers (as TAs):
 ### Section 1 - Arduino intro & General IO devices
 Content provided:
 - Basic videos:
-  - PlatformIO installation: 
-  - Course introduction:
+  - PlatformIO installation [link]()
+  - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Arduino introduction:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
   - PDF [link](https://drive.google.com/file/d/1hW_fd6I6SuSR0mSpq4YUz-pJHqwpwPDm/view?usp=sharing)
