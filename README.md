@@ -20,7 +20,7 @@ Providers (as TAs):
 <br /><br />
 
 ### Section 1 - Arduino intro & General IO devices
-##### Content provided:
+**Content provided:**
 - Basic videos:
   - PlatformIO installation [link]()
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
@@ -31,7 +31,7 @@ Providers (as TAs):
   - Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
   - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
 
-Test performed:
+**Test performed:**
 - 1
 
 ### Section 2 - Push button states & PWM
