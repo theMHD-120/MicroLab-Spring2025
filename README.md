@@ -20,7 +20,7 @@ Providers (as TAs):
 <br /><br />
 
 ### Section 1 - Arduino intro & General IO devices
-#### Content provided:
+##### Content provided:
 - Basic videos:
   - PlatformIO installation [link]()
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
