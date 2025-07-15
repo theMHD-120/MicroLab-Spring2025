@@ -35,35 +35,35 @@ Providers (as TAs):
 - 1
 
 ### Section 2 - Push button states & PWM
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
 ### Section 3 - The Serial communication feature
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
 ### Section 4 - RGB LED interfacing (ADC preview)
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
 ### Section 5 - ADC & Analog processing
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
 <br />
@@ -71,18 +71,18 @@ Tests performed:
 ## DOIT ESP32 DEVKIT V1
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
 ### Section 7 - Build your own Web Server
-Content provided:
+**Content provided:**
 - Canva publick view link
 - PDF link
 
-Tests performed:
+**Tests performed:**
 - 1
 
