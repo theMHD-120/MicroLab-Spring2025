@@ -12,7 +12,7 @@ Providers (as TAs):
 - Sepehr Azhdari
 - Seyed Mahdi Mahdavi Mortazavi (theMHD)
 
-<br />
+
 
 ## Arduino UNO R3
 
