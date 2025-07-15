@@ -12,7 +12,7 @@ Providers (as TAs):
 - Sepehr Azhdari
 - Seyed Mahdi Mahdavi Mortazavi (theMHD)
 
-## Part 1 - Arduino UNO R3
+## Arduino UNO R3
 
 ### Section 1 - Arduino intro & General IO devices
 Content provided:
@@ -49,7 +49,7 @@ Content provided:
 Tests performed:
 - 1
 
-## Part 2 - DOIT ESP32 DevKit V1
+## DOIT ESP32 DEVKIT V1
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
 Content provided:
