@@ -10,7 +10,7 @@ Professor:
   
 Providers (as TAs):
 - Seyed Mahdi Mahdavi Mortazavi (@theMHD-120)
-- Sepehr Azhdari (@ )
+- Sepehr Azhdari (@azhdarii)
 
 <br />
 
@@ -21,39 +21,42 @@ Providers (as TAs):
 
 ### Section 1 - Arduino intro & General IO devices
 Content provided:
-- PlatformIO installation:
+- PlatformIO installation: 
 - Course introduction:
-- Slides:
-  - Dynamic (animated): Canva publick view link
-  - Static: PDF link
+- Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
+- PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
 
 Test performed:
 - 1
 
 ### Section 2 - Push button states & PWM
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
 
 ### Section 3 - The Serial communication feature
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
 
 ### Section 4 - RGB LED interfacing (ADC preview)
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
 
 ### Section 5 - ADC & Analog processing
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
@@ -64,14 +67,16 @@ Tests performed:
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
 
 ### Section 7 - Build your own Web Server
 Content provided:
-- 1
+- Canva publick view link
+- PDF link
 
 Tests performed:
 - 1
