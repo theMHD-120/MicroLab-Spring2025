@@ -5,7 +5,9 @@
 --------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025.
 
-TAs:
+Professor:
+- Dr. Farshad Khunjush
+Providers (as TAs):
 - Seyed Mahdi Mahdavi Mortazavi (theMHD)
 - Sepehr Azhdari
 
