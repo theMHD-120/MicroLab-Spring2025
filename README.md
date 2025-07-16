@@ -106,7 +106,9 @@ Providers (as TAs):
   - PDF [link](https://drive.google.com/file/d/1_kvRVCYVDAVNIAR-GBbX2U7f4OQXyHOu/view?usp=sharing)
 
 **Tests performed:**
-- 1
+- Sending GET and POST requests to a desired server (ESP32 as a client)
+  - GET request: a GET request, in simple terms, is a way for you to grab data from a data source with the help of the internet
+  - POST request: A POST request in HTTP is used to send data to a server typically to create or update a resource
 
 <br />
 
@@ -120,7 +122,9 @@ Providers (as TAs):
   - Featured website link (in voice)
 
 **Tests performed:**
-- 1
+- Running a web server using the ESP32 board (web server initializations)
+- RGB lighting with user-controlled remote control
+  - ESP32 as a web server (in Access Point (AP) and Station modes)
 
 <br />
 
