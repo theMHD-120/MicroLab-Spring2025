@@ -59,6 +59,7 @@ Providers (as TAs):
 
 **Tests performed:**
 - Adjusting LED brightness using PWM whose value is determined by serial input
+  - Displaying PWM waveforms on an oscilloscope with different duty-cycles (video link)
 - Duplex communication (chat) between two computers (systems) using a virtual serial interface
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - Serial.h: The main serial interface for communication between Arduino and our systems
