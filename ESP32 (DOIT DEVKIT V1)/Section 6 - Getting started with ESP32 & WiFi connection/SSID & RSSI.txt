@@ -1,13 +1,14 @@
 What is SSID?
-SSID (Service Set Identifier)** is the name of the Wi-Fi network that is displayed when searching for a connection. For example, when you try to connect your phone or laptop to Wi-Fi, the names of the networks you see are the SSIDs.
+SSID (Service Set Identifier) is the name of the Wi-Fi network that is displayed when searching for a connection. 
+For example, when you try to connect your phone or laptop to Wi-Fi, the names of the networks you see are the SSIDs.
 In other words, SSID is the identifier or name that each Wi-Fi network chooses for itself.
 -------------------------------------------------------
 What is Signal Strength (RSSI)?
-RSSI (Received Signal Strength Indicator)** shows the strength of the Wi-Fi signal received from each network.
+RSSI (Received Signal Strength Indicator) shows the strength of the Wi-Fi signal received from each network.
 >>> This number is usually displayed as a negative number; the closer this number is to zero, the stronger the signal.
->>> For example: RSSI of -30 dB means a very strong signal, and RSSI of -90 means a very weak signal.
+>>> For example: RSSI of -30 dB (closer to 0) means a very strong signal, and RSSI of -90 means a very weak signal.
 -------------------------------------------------------
-So in our code when we scan for networks:
-1) We print each network name (SSID) and
+So in our code, when we scan for networks, we print the following:
+1) The name of each network (SSID)
 2) The signal strength of that network (RSSI)
-to the serial monitor so we can see what networks are around and which one is stronger.
+So we can see what networks are around and which one is stronger.
