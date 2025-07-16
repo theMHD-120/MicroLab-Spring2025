@@ -48,7 +48,8 @@ Providers (as TAs):
   - Two flags for previous & current state of push button
 - A 3-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
-- Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode) 
+- Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode)
+  - The output is based on the duty cycle (to adjust LED brightness, armature speed, or...)
 
 <br />
 
