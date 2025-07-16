@@ -1,19 +1,18 @@
 #include <Arduino.h>
 
 /*
-  Reading a digital value from push-button and set LED pin
+  Turning ON an LED with a push-button & pull-down resistor
 */
 
 
 void setup() {
   pinMode(7, OUTPUT);
-  digitalWrite(7, LOW);
-  pinMode(8, INPUT_PULLUP);
+  pinMode(8, INPUT);
 }
 
 void loop() {
   char btnValue = digitalRead(8);
-  if (!btnValue)
+  if (btnValue)
     digitalWrite(7, HIGH);
   else
     digitalWrite(7, LOW);
