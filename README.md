@@ -84,7 +84,11 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/1BeG_RS_Gz6lEs-Fwlk0MNjOd7dRL7jte/view?usp=sharing)
 
 **Tests performed:**
-- 1
+- Switch between RGB colors by fading
+  - Using a potentiometer as analog input
+  - Input range value (as digital value): 0-1023
+- Setting up the duty cycle for an output device (LED, armature or ...)
+  With Photocell and monitor the input voltage & digital value 
 
 <br />
 
