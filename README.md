@@ -48,7 +48,7 @@ Providers (as TAs):
   - Two flags for previous & current state of push button
 - A 3-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
-- Set LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode) 
+- Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode) 
 
 <br />
 
@@ -58,7 +58,11 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/13id41LRUTzm33Sfs6xXdrhpfH5QWYzwp/view?usp=sharing)
 
 **Tests performed:**
-- 1
+- Adjusting LED brightness using PWM whose value is determined by serial input
+- Duplex communication (chat) between two computers (systems) using a virtual serial interface
+  - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
+  - Serial.h: The main serial interface for communication between Arduino and our systems
+  - SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
 
 <br />
 
@@ -68,7 +72,8 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/19qMYNZHT5CoWjkFuKTUWVN-UxlrTfkw8/view?usp=sharing)
 
 **Tests performed:**
-- 1
+- Switching between Red-Green-Blue colors and their paired-combinations, like a 3-bit counter
+- Switching between Red-Green-Blue colors and their paired-combinations, using a potentiometer
 
 <br />
 
