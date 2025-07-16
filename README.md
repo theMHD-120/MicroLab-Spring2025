@@ -105,7 +105,7 @@ Providers (as TAs):
   - Canva publick view [link](https://www.canva.com/design/DAGoReAoYPw/NQ2DqZ6t-h50hczArSH8Kg/view?utm_content=DAGoReAoYPw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5c019d11c)
   - PDF [link](https://drive.google.com/file/d/1_kvRVCYVDAVNIAR-GBbX2U7f4OQXyHOu/view?usp=sharing)
 
-**Tests performed:**
+**Test performed:**
 - Sending GET and POST requests to a desired server (ESP32 as a client)
   - GET request: a GET request, in simple terms, is a way for you to grab data from a data source with the help of the internet
   - POST request: A POST request in HTTP is used to send data to a server typically to create or update a resource
