@@ -42,7 +42,11 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
-- 1
+- Modifying (correcting) Push button functionality using < delay() > instruction & Two flags
+  - Two flags for previous & current state of push button
+- A 3-bit counter that counts with each click on the push-button
+  - Using previous push-button modifications (delay and flags)
+- Set LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode) 
 
 <br />
 
