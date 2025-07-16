@@ -32,7 +32,7 @@ Providers (as TAs):
   - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
 
 **Test performed:**
-- 1
+- Turning ON an LED with a push-button & pull-down resistor
 
 <br />
 
