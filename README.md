@@ -22,7 +22,7 @@ Providers (as TAs):
 ### Section 1 - Arduino intro & General IO devices
 **Content provided:**
 - Basic videos:
-  - PlatformIO installation   link
+  - PlatformIO installation link
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
@@ -57,6 +57,8 @@ Providers (as TAs):
 **Content provided:**
 - Canva publick view [link](https://www.canva.com/design/DAGkIHUE7HI/ufmnT9i3kL-Z994-q75gwA/view?utm_content=DAGkIHUE7HI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habdb5c5a64)
 - PDF [link](https://drive.google.com/file/d/13id41LRUTzm33Sfs6xXdrhpfH5QWYzwp/view?usp=sharing)
+- Review of UART protocol commands:
+  - Video [link](https://drive.google.com/file/d/1yyAbaujDyBLNi8c2ACwc9cjFka41WoFP/view?usp=sharing) 
 
 **Tests performed:**
 - Adjusting LED brightness using PWM whose value is determined by serial input
@@ -88,8 +90,7 @@ Providers (as TAs):
 - Switch between RGB colors by fading
   - Using a potentiometer as analog input
   - Input range value (as digital value): 0-1023
-- Setting up the duty cycle for an output device (LED, armature or ...)
-  With Photocell and monitor the input voltage & digital value 
+- Setting up the duty cycle for an output device (LED, armature or ...) with Photocell and monitor the input voltage & digital value 
 
 <br />
 
