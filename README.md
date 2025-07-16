@@ -97,8 +97,9 @@ Providers (as TAs):
 - Main content:
   - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
   - PDF [link](https://drive.google.com/file/d/1yHuwImUXdbkfyDJuS-9yY3JXuicI1MUm/view?usp=sharing)
-- Basic introduction to Hellishots:
-  - 1
+- Basic introduction to *Hellishots* (for acquaintance):
+  - Description link (voice)
+  - Featured website link (in voice)
 
 **Tests performed:**
 - 1
