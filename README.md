@@ -32,7 +32,7 @@ Providers (as TAs):
   - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
 
 **Test performed:**
-- Turning ON an LED with a push-button & pull-down resistor
+- Turning on an LED by clicking on the push button using pull-down resistor
 
 <br />
 
@@ -42,10 +42,10 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
-- Modifying (correcting) push-button functionality using < delay() > instruction & Two flags
-  - The best delay value is achieved through trial and error
-    - Due to the spring structure of the push-button, its value may vary
-  - Two flags for previous & current state of push button
+- Toggle the LED state & modifying (correcting) its functionality using < delay() > instruction & Two flags
+  - The best delay value is achieved through trial and error (due to the spring structure of the push-button, its value may vary)
+  - Two flags for previous & current state of push-button
+  - This method works for push-button with both types of resistors (pull-up and pull-down); you can check  
 - A 3-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
 - Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode)
