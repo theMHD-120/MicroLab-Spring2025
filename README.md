@@ -107,5 +107,6 @@ Providers (as TAs):
 <br />
 
 ## Schematics
+
 ![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/ad0d56f24e1efbaa3db6fa91be40472e5654142f/Arduino%20(UNO%20R3)/UNO%20R3%20Schematic.png)
-![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/tree/ad0d56f24e1efbaa3db6fa91be40472e5654142f/ESP32%20(DOIT%20DEVKIT%20V1))
+![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/tree/ad0d56f24e1efbaa3db6fa91be40472e5654142f/ESP32%20DOIT%20DEVKIT%20V1)
