@@ -104,3 +104,8 @@ Providers (as TAs):
 **Tests performed:**
 - 1
 
+<br />
+
+## Schematics
+![UNO R3 Schematic]()
+![DOIT DEVKIT V1 Schematic]()
