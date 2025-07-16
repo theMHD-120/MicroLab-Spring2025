@@ -106,7 +106,7 @@ Providers (as TAs):
 
 <br />
 
-## Schematics
+## Pinouts
 
 ![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/acc6be279fcf54abac575f93f75bb078dc49e975/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT%20DEVKIT%20V1%20Pinout.png)
