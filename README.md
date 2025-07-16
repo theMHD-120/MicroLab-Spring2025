@@ -22,7 +22,7 @@ Providers (as TAs):
 ### Section 1 - Arduino intro & General IO devices
 **Content provided:**
 - Basic videos:
-  - PlatformIO installation [link]()
+  - PlatformIO installation   link
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
@@ -42,7 +42,9 @@ Providers (as TAs):
 - PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
-- Modifying (correcting) Push button functionality using < delay() > instruction & Two flags
+- Modifying (correcting) push-button functionality using < delay() > instruction & Two flags
+  - The best delay value is achieved through trial and error
+    - Due to the spring structure of the push-button, its value may vary
   - Two flags for previous & current state of push button
 - A 3-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
