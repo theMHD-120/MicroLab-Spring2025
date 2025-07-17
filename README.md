@@ -5,10 +5,10 @@
 --------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025.
 
-Professor:
+**Professor:**
 - Dr. Farshad Khunjush
   
-Providers (as TAs):
+**Providers (as TAs):**
 - Seyed Mahdi Mahdavi Mortazavi ([@theMHD-120](https://github.com/theMHD-120))
 - Sepehr Azhdari ([@azhdarii](https://github.com/azhdarii))
 
@@ -46,7 +46,7 @@ Providers (as TAs):
   - The best delay value is achieved through trial and error (due to the spring structure of the push-button, its value may vary)
   - Two flags for previous & current state of push-button
   - This method works for push-button with both types of resistors (pull-up and pull-down); you can check  
-- A 3-bit counter that counts with each click on the push-button
+- A three-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
 - Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode)
   - The output is based on the duty cycle (to adjust LED brightness, armature speed, or...)
