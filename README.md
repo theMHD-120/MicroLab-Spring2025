@@ -48,7 +48,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
-- Toggle the LED state & modifying (correcting) its functionality using <code>delay()</code> instruction & Two flags
+- Toggle the LED state and modifying (correcting) its functionality using <code>delay()</code> instruction & Two flags
   - The best delay value is achieved through trial and error (due to the spring structure of the push-button, its value may vary)
   - Two flags for previous & current state of push-button
   - This method works for push-button with both types of resistors (pull-up and pull-down); you can check  
