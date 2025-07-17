@@ -4,7 +4,8 @@
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
-The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. <br />
+The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
+<br /><br />
 Course Features:
 - For greater speed and convenience, the Arduino.h framework has been used to program both Arduino and ESP32 microcontrollers.
 - In the first 5 sections, basic topics of microcontrollers are reviewed using the Arduino microcontroller.
