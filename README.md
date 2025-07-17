@@ -1,8 +1,7 @@
 ﻿# MicroLab-Spring2025
 >>> Microcontrollers Laboratory - Spring 2025
 
-||| In the name of Allah ||| 
-<br /><br />
+||| In the name of Allah ||| <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
 The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
 <br /><br />
