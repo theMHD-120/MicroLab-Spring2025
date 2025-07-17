@@ -7,7 +7,7 @@ Contents presented in the Microcontrollers Laboratory course at the Department o
 The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
 <br /><br />
 **Course Features:**
-- For greater speed and convenience, the <code>Arduino.h</code> framework has been used to program both Arduino and ESP32 microcontrollers.
+- For greater speed and convenience, the <code> Arduino.h </code> framework has been used to program both Arduino and ESP32 microcontrollers.
 - In the first 5 sections, basic topics of microcontrollers are reviewed using the Arduino microcontroller.
 - Also, in the last 2 sections, more practical topics in microcontrollers (connection and communication via the Internet) are reviewed using the ESP32 microcontroller.
 
@@ -48,7 +48,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
 
 **Tests performed:**
-- Toggle the LED state & modifying (correcting) its functionality using *delay()* instruction & Two flags
+- Toggle the LED state & modifying (correcting) its functionality using <code> delay() </code> instruction & Two flags
   - The best delay value is achieved through trial and error (due to the spring structure of the push-button, its value may vary)
   - Two flags for previous & current state of push-button
   - This method works for push-button with both types of resistors (pull-up and pull-down); you can check  
