@@ -122,7 +122,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Main content:
   - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
   - PDF [link](https://drive.google.com/file/d/1yHuwImUXdbkfyDJuS-9yY3JXuicI1MUm/view?usp=sharing)
-- Basic introduction to ***Hellishots*** (for acquaintance):
+- Basic introduction to ***Quadcopters*** (for acquaintance):
   - Description link (voice)
   - Featured website link (in voice)
 
@@ -132,7 +132,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - RGB lighting with user-controlled remote control
   - Remote control is done via an HTML page
   - ESP32 as a web server can be in Access Point (AP) and Station modes
-  - To view the output results of this test, click here
+  - To view the output result of this test, click here
 
 <br />
 
