@@ -3,7 +3,8 @@
 #include <WebServer.h>
 
 /*
-  RGB lighting with user-controlled remote control (through an HTML page)
+  RGB lighting with user-controlled remote control
+  >>> Remote control is done via an HTML page
   >>> ESP32 as a web server can be in Access Point (AP) and Station modes
 */
 
