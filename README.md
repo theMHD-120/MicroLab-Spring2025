@@ -2,7 +2,6 @@
 >>> Microcontrollers Laboratory - Spring 2025
 
 ||| In the name of Allah ||| <br />
---------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
 The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
 <br /><br />
@@ -68,7 +67,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 **Tests performed:**
 - Adjusting LED brightness using PWM whose value is determined by serial input
-  - Displaying PWM waveforms on an oscilloscope with different duty-cycles (video link)
+  - Displaying PWM waveforms on the oscilloscope with different duty-cycles (click here)
 - Duplex communication (chat) between two computers (systems) using a virtual serial interface
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - Serial.h: The main serial interface for communication between Arduino and our systems
@@ -123,7 +122,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Main content:
   - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
   - PDF [link](https://drive.google.com/file/d/1yHuwImUXdbkfyDJuS-9yY3JXuicI1MUm/view?usp=sharing)
-- Basic introduction to *Hellishots* (for acquaintance):
+- Basic introduction to ***Hellishots*** (for acquaintance):
   - Description link (voice)
   - Featured website link (in voice)
 
@@ -132,6 +131,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - RGB lighting with user-controlled remote control
   - Remote control is done via an HTML page
   - ESP32 as a web server can be in Access Point (AP) and Station modes
+  - To view the results of this test, click here
 
 <br />
 
