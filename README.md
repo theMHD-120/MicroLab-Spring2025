@@ -3,7 +3,7 @@
 
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
-Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025.
+Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
 The main goal of this course is to review basic topics in microcontrollers, familiarize yourself with microcontroller programming, and gain an initial understanding of their various applications in the electronics industry (such as IoT, helicopter production and control, etc.); the main focus is on microcontroller programming and coding for calculations and control tasks.
 
 **Professor:**
@@ -88,7 +88,7 @@ The main goal of this course is to review basic topics in microcontrollers, fami
 - PDF [link](https://drive.google.com/file/d/1BeG_RS_Gz6lEs-Fwlk0MNjOd7dRL7jte/view?usp=sharing)
 
 **Tests performed:**
-- Switch between RGB colors by fading
+- Switching between RGB colors with fading
   - Using a potentiometer as analog input
   - Input range value (as digital value): 0-1023
 - Setting up the duty cycle for an output device (LED, armature or ...) with Photocell and monitor the input voltage & digital value 
@@ -108,7 +108,7 @@ The main goal of this course is to review basic topics in microcontrollers, fami
 
 **Test performed:**
 - Sending GET and POST requests to a desired server (ESP32 as a client)
-  - GET request: a GET request, in simple terms, is a way for you to grab data from a data source with the help of the internet
+  - GET request: A GET request in simple terms is a way to get data from a data source (server) over the internet
   - POST request: A POST request in HTTP is used to send data to a server typically to create or update a resource
 
 <br />
@@ -125,7 +125,8 @@ The main goal of this course is to review basic topics in microcontrollers, fami
 **Tests performed:**
 - Running a web server on the ESP32 board (web server initialization)
 - RGB lighting with user-controlled remote control
-  - ESP32 as a web server (can be in Access Point (AP) or Station modes)
+  - Remote control is done via an HTML page
+  - ESP32 as a web server can be in Access Point (AP) and Station modes
 
 <br />
 
