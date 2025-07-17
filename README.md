@@ -67,7 +67,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 **Tests performed:**
 - Adjusting LED brightness using PWM whose value is determined by serial input
-  - Displaying PWM waveforms on the oscilloscope with different duty-cycles (click here)
+  - Displaying PWM waveforms on the oscilloscope with different duty-cycles (watch here)
 - Duplex communication (chat) between two computers (systems) using a virtual serial interface
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - Serial.h: The main serial interface for communication between Arduino and our systems
