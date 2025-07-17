@@ -101,6 +101,9 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ## DOIT ESP32 DEVKIT V1
 
+<br />![Arduino Get Started](https://github.com/theMHD-120/MicroLab-Spring2025/blob/2c358aa393cb4bf46045a379d26bb7e93572e47d/ESP32%20(DOIT%20DEVKIT%20V1)/espressif-logo.svg)
+<br /><br />
+
 ### Section 6 - Getting started with ESP32 & WiFi connection
 **Content provided:**
 - Introduction to ESP32:  
