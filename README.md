@@ -4,9 +4,9 @@
 ||| In the name of Allah ||| <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
 The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
-<br /><br />
+
 **Course Features:**
-- For greater speed and convenience, the <code>Arduino.h</code> framework has been used to program both Arduino and ESP32 microcontrollers.
+- The Arduino framework (the <code>Arduino.h</code> library) is used to program both the Arduino and ESP32 microcontrollers.
 - In the first 5 sections, basic topics of microcontrollers are reviewed using the Arduino microcontroller.
 - Also, in the last 2 sections, more practical topics in microcontrollers (connection and communication via the Internet) are reviewed using the ESP32 microcontroller.
 
@@ -128,10 +128,11 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 **Tests performed:**
 - Running a web server on the ESP32 board (web server initialization)
+  - Using <code>WebServer.h</code> library
 - RGB lighting with user-controlled remote control
   - Remote control is done via an HTML page
   - ESP32 as a web server can be in Access Point (AP) and Station modes
-  - To view the results of this test, click here
+  - To view the output results of this test, click here
 
 <br />
 
