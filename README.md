@@ -4,7 +4,7 @@
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
-The main goal of this course is to review basic topics in microcontrollers, familiarize yourself with microcontroller programming, and gain an initial understanding of their various applications in the electronics industry (such as IoT, helicopter production and control, etc.); the main focus is on microcontroller programming and coding for calculations and control tasks.
+The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), helishot control (quadcopter), etc.); the main focus is on programming and coding microcontrollers for computational and control tasks.
 
 **Professor:**
 - Dr. Farshad Khunjush
