@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 /*
-  A 3-bit counter that counts with each click on the push-button
-  >>> Using previuos corrections of push-button (delay & flags)
+  A three-bit counter that counts with each click on the push-button
+  >>> Using previous push button modifications (delay and flags)
 */
 
 #define LED_RED 10
@@ -18,7 +18,7 @@ bool btnPrevState = LOW;
 void setup() {
   pinMode(BUTTON_PIN, INPUT); // set the button pin as input
   pinMode(LED_RED, OUTPUT);   // set the Red LED pin as output
-  pinMode(LED_GRN, OUTPUT);   // set the Green LED pin as output
+  pinMode(LED_GRN, OUTPUT);   // set the Green LED pin as output 
   pinMode(LED_YLO, OUTPUT);   // set the Yello LED pin as output
 }
 

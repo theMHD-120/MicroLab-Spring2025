@@ -3,11 +3,11 @@
 #include <HTTPClient.h>
 
 /*
-  Sending GET and POST requests to a desired server (ESP32 as a client).
-  >>> GET request: a GET request, in simple terms, is a way for you to grab data,
-      From a data source with the help of the internet.
+  Sending GET and POST requests to a desired server (ESP32 as a client)
+  >>> A GET request in simple terms is a way to get data from a data source 
+      (server) over the internet
   >>> POST request: A POST request in HTTP is used to send data to a server, 
-      Typically to create or update a resource.
+      Typically to create or update a resource
 */
 
 unsigned long previousMillis = 0;

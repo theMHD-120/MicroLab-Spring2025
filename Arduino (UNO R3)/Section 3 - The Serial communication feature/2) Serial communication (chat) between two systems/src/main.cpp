@@ -2,8 +2,9 @@
 #include <SoftwareSerial.h>
 
 /*
-  Communication (chat) between two computers (systems) using a virtual serial interface
-  >>> Serial.h: The main serial interface for communication between Arduino and end systems
+  Duplex communication (chat) between two computers (systems) using a virtual serial interface
+  >>> One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
+  >>> Serial.h: The main serial interface for communication between Arduino and our systems
   >>> SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
 */
 
@@ -22,6 +23,7 @@ void setup() {
 }
 
 void loop() {
+  
   // Check for incoming messages from other Arduino
   if (chatSerial.available()) {
     String incoming = chatSerial.readStringUntil('\n');

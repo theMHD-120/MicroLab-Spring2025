@@ -1,32 +1,31 @@
-#include<Arduino.h>
+#include <Arduino.h>
 
 /*
-  Set LED brightness using PWM (pulse-width-modulation) mode 
-  Of Timer/Counters with the Serial input ...
+  Adjusting LED brightness using PWM whose value is determined by serial input
 */
 
-const int OUT_PIN = 9;
+const int LED_PIN = 9; // LED or any other output devices
 float onTime = 0;
 float dutyCycle = 0;
 float periodTime = 100;  // 100 milliseconds (10 Hz)
 
 
 void setup() {
-  pinMode(OUT_PIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
   Serial.begin(9600);
-  Serial.print("Enter ON time in microseconds (0-");
+
+  Serial.print("Enter the ON time in microseconds (0-");
   Serial.print(periodTime);
   Serial.println("):");
 }
 
 void loop() {
-  // Check for serial input
-  if(Serial.available()){
-    float o = Serial.parseFloat();
+  if(Serial.available()) {
+    float tempOn = Serial.parseFloat();
     while(Serial.available()) Serial.read(); // clear buffer
     
-    if(o >= 0 && o <= periodTime) {  // validate input range
-      onTime = o;
+    if(tempOn >= 0 && tempOn <= periodTime) {  // validate input range
+      onTime = tempOn;
       dutyCycle = onTime / periodTime;
       
       Serial.print("New ON time set: ");
@@ -44,37 +43,24 @@ void loop() {
   
   // Generate PWM
   if(onTime > 0) {
-    digitalWrite(OUT_PIN, HIGH);
+    digitalWrite(LED_PIN, HIGH);
     delay(onTime);
-    digitalWrite(OUT_PIN, LOW);
+    digitalWrite(LED_PIN, LOW);
     delay(periodTime - onTime);
   } else {
-    digitalWrite(OUT_PIN, LOW);  // if onTime is 0, keep LED off
+    digitalWrite(LED_PIN, LOW);  // if onTime is 0, keep LED off
     delay(periodTime);
   }
 }
 
-/* ------------------- Second code - simpler to use (to enter a number) ------------------- */
-
-// #include<Arduino.h>
-
-// const int LED_PIN = 9;
-// float onTime = 0;
-// float dutyCycle = 0;
-// float periodTime = 2;
-
-
-// void setup() {
-//   pinMode(LED_PIN, OUTPUT);
-//   Serial.begin(9600);
-// }
+/* ------------------- Second code - easier to use (for entering numbers) ------------------- */
 
 // void loop() {
 //   if(Serial.available()){
 //     Serial.print("Enter ON time: ");
 //
 //     float tempOn = Serial.readStringUntil("\n").toFloat();
-//     if (tempOn != 0)
+//     if (tempOn > 0)
 //       onTime = tempOn;
 //   }
 

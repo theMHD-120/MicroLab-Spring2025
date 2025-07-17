@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 /*
-  Switching between Red-Green-Blue colors and their paired-combinations, 
-  Using a potentiometer ...
+  Switching between Red-Green-Blue colors and their 
+  Paired-combinations, using a potentiometer
 */
 
 const int redPin = 9;

@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 /*
-  Switching between Red-Green-Blue colors and their paired-combinations, 
-  Like a 3-bit counter ...
+  Switching between Red-Green-Blue colors and their 
+  Paired-combinations, like a 3-bit counter
 */
 
 int counter = 0;

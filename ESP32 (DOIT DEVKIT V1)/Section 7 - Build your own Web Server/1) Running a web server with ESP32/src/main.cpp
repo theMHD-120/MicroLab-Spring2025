@@ -3,8 +3,7 @@
 #include <WebServer.h>
 
 /*
-  Running a web server using the ESP32 board
-  >>> Web server initializations ...
+  Running a web server on the ESP32 board (web server initialization)
 */
 
 // Wifi SSID & Password

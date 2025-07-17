@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 /*
-  Set LED brightness using PWM (pulse-width-modulation) mode of Timer/Counters
+  Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode)
 */
 
 float onTime = 3.0;
@@ -12,8 +12,10 @@ float dutyCycle = onTime / (onTime + offTime);
 void setup() {
   pinMode(11, OUTPUT);
   Serial.begin(9600);
-  Serial.print(dutyCycle, 2);
-  Serial.print("\n-------\n");
+
+  // Duty cycle with a precision of 2 digits after the decimal point
+  Serial.println(dutyCycle, 2);
+  Serial.println("----------");
 }
 
 void loop() {

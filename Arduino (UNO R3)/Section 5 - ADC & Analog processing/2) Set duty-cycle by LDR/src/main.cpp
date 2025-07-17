@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
 /*
-  Set the duty cycle for an output device (LED, armature or ...) with Photocell 
-  And monitor the input voltage & digital value ...
+  Setting the duty cycle for an output device (LED, armature or ...) 
+  With Photocell and monitor the input voltage & digital value 
 */
 
 
@@ -19,5 +19,6 @@ void loop() {
   Serial.print(digitalVal);
   Serial.print("-------");
   Serial.println(digitalVal*5.00/1023.00);
-  analogWrite(11, newVal);
+
+  analogWrite(11, newVal); // PWM
 }
