@@ -101,6 +101,12 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 <br />
 
+### UNO R3 Pinuot
+
+![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
+
+<br />
+
 ## DOIT ESP32 DEVKIT V1
 
 <br /> <img src="https://github.com/theMHD-120/MicroLab-Spring2025/blob/2c358aa393cb4bf46045a379d26bb7e93572e47d/ESP32%20(DOIT%20DEVKIT%20V1)/espressif-logo.svg" width=650>
@@ -141,7 +147,6 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 <br />
 
-## Pinouts
+### DOIT DEVKIT V3 Pinuot
 
-![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/ed05d8b85dff26d2d2c41d002e6dd35371579885/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT%20DEVKIT%20V1%20Pinout.png)
