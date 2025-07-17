@@ -4,6 +4,7 @@
 ||| In the name of Allah ||| <br />
 --------------------------- <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025.
+The main goal of this course is to review basic topics in microcontrollers, familiarize yourself with microcontroller programming, and gain an initial understanding of their various applications in the electronics industry (such as IoT, helicopter production and control, etc.); the main focus is on microcontroller programming and coding for calculations and control tasks.
 
 **Professor:**
 - Dr. Farshad Khunjush
@@ -122,9 +123,9 @@ Contents presented in the Microcontrollers Laboratory course at the Department o
   - Featured website link (in voice)
 
 **Tests performed:**
-- Running a web server using the ESP32 board (web server initializations)
+- Running a web server on the ESP32 board (web server initialization)
 - RGB lighting with user-controlled remote control
-  - ESP32 as a web server (in Access Point (AP) and Station modes)
+  - ESP32 as a web server (can be in Access Point (AP) or Station modes)
 
 <br />
 
