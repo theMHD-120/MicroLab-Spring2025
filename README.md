@@ -9,7 +9,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 **Course Features:**
 - The Arduino framework (the <code>Arduino.h</code> library) is used to program both Arduino-based and ESP32-based development boards.
-- In the first five sections,  fundamental microcontroller concepts are explored using Arduino Uno R3 development board, which is based on the ATmega328P microcontroller.
+- In the first five sections,  fundamental microcontroller concepts are explored using the Arduino Uno R3 development board, which is based on the ATmega328P microcontroller.
 - Also, in the final two sections, more practical microcontroller topics (Internet connection and communication) are explored using the ESP32-WROOM-32 module, integrated on the DOIT ESP32 DEVKIT V1 development board.
 
 **Professor:**
@@ -101,7 +101,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 <br />
 
-### UNO R3 Pinuot
+### UNO R3 pinuot
 
 ![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
 
@@ -147,6 +147,6 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 <br />
 
-### DOIT DEVKIT V3 Pinuot
+### DOIT DEVKIT V3 pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/ed05d8b85dff26d2d2c41d002e6dd35371579885/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT%20DEVKIT%20V1%20Pinout.png)
