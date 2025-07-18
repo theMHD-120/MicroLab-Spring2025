@@ -3,14 +3,14 @@
 
 ||| In the name of Allah ||| <br />
 Contents presented in the Microcontrollers Laboratory course at the Department of Computer Science Engineering (CSE), Shiraz University, Spring 2025. <br />
-The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), Quadcopter (helishot, ...) control, etc.); the main focus is on programming and coding microcontrollers for computational and control tasks. 
+The main objective of this course is to review basic topics in microcontrollers, familiarize with microcontroller programming, and provide a basic understanding of their various applications in the electronics industry (such as the Internet of Things (IoT), Quadcopter (helishot, ...) control, etc.); the main focus is on programming and coding microcontrollers (high-level instructions) for computational and control tasks. 
 
 **Note: this repository only contains the programs written for each test.**
 
 **Course Features:**
-- The Arduino framework (the <code>Arduino.h</code> library) is used to program both the Arduino and ESP32 microcontrollers.
-- In the first 5 sections, basic topics of microcontrollers are reviewed using the Arduino microcontroller.
-- Also, in the last 2 sections, more practical topics in microcontrollers (connection and communication via the Internet) are reviewed using the ESP32 microcontroller.
+- The Arduino framework (the <code>Arduino.h</code> library) is used to program both Arduino-based and ESP32-based development boards.
+- In the first five sections,  fundamental microcontroller concepts are explored using Arduino Uno R3 development board, which is based on the ATmega328P microcontroller.
+- Also, in the final two sections, more practical microcontroller topics (Internet connection and communication) are explored using the ESP32-WROOM-32 module, integrated on the DOIT ESP32 DEVKIT V1 development board.
 
 **Professor:**
 - Dr. Farshad Khunjush
@@ -21,7 +21,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 <br />
 
-## Arduino UNO R3
+## Arduino UNO R3 
 
 <br />![Arduino Get Started](https://github.com/theMHD-120/MicroLab-Spring2025/blob/276a47a9f6e14d625762c3d178d1a7aba0759d9d/Arduino%20(UNO%20R3)/arduino-get-started-logo.svg)
 <br /><br />
