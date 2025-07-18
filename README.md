@@ -149,4 +149,4 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### DOIT DEVKIT V3 Pinuot
 
-![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/ed05d8b85dff26d2d2c41d002e6dd35371579885/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT%20DEVKIT%20V1%20Pinout.png)
+![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/8420930aceae44de168c0906e810150dc6ea5f32/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT%20DEVKIT%20V1%20Pinout.png)
