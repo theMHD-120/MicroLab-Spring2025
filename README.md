@@ -74,6 +74,7 @@ The main objective of this course is to review basic topics in microcontrollers,
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - Serial.h: The main serial interface for communication between Arduino and our systems
   - SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
+  - Note: To connect two Arduino boards, they must have a common ground
 
 <br />
 
@@ -84,7 +85,9 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 **Tests performed:**
 - Switching between Red-Green-Blue colors and their paired-combinations, like a 3-bit counter
-- Switching between Red-Green-Blue colors and their paired-combinations, using a potentiometer
+- Switching between Red-Green-Blue colors and their paired-combinations, using a Potentiometer
+  - Using a Potentiometer to get analog input
+  - Input range value (as digital value): 0-1023 
 
 <br />
 
@@ -94,10 +97,9 @@ The main objective of this course is to review basic topics in microcontrollers,
 - PDF [link](https://drive.google.com/file/d/1BeG_RS_Gz6lEs-Fwlk0MNjOd7dRL7jte/view?usp=sharing)
 
 **Tests performed:**
-- Switching between RGB colors with fading
-  - Using a potentiometer as analog input
-  - Input range value (as digital value): 0-1023
-- Setting up the duty cycle for an output device (LED, armature or ...) with Photocell and monitor the input voltage & digital value 
+- Switching between RGB colors with fading (using a potentiometer as in section 4)
+- Setting up the duty cycle for an output device (LED, armature or ...) using a Photocell and monitoring the input voltage & digital value
+  - Using Photocell (in code) is like using Potentiometer (both as analog inputs)
 
 <br />
 
