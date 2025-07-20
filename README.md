@@ -26,6 +26,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 <br />![Arduino Get Started](https://github.com/theMHD-120/MicroLab-Spring2025/blob/276a47a9f6e14d625762c3d178d1a7aba0759d9d/Arduino%20(UNO%20R3)/arduino-get-started-logo.svg)
 <br />
 #### Arduino UNO R3 Datasheet [link]()
+<br />
 
 ### Section 1 - Arduino intro & General IO devices
 **Content provided:**
@@ -115,6 +116,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 <br /> <img src="https://github.com/theMHD-120/MicroLab-Spring2025/blob/2c358aa393cb4bf46045a379d26bb7e93572e47d/ESP32%20(DOIT%20DEVKIT%20V1)/espressif-logo.svg" width=650>
 <br />
 #### DOIT ESP32 DEVKIT V1 Datasheet [link]()
+<br />
 
 ### Section 6 - Getting started with ESP32 & WiFi connection
 **Content provided:**
