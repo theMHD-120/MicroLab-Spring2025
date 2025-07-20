@@ -3,6 +3,8 @@
 /*
   Switching between Red-Green-Blue colors and their 
   Paired-combinations, using a potentiometer
+  >>> Using a Potentiometer to get analog input
+  >>> Input range value (as digital value): 0-1023 
 */
 
 const int redPin = 9;

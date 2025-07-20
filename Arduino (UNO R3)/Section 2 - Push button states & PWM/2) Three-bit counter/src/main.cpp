@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 /*
-  A three-bit counter that counts with each click on the push-button
+  Desig a three-bit counter that counts with each click on the push-button
   >>> Using previous push button modifications (delay and flags)
 */
 

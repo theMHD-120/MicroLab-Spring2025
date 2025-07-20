@@ -2,10 +2,11 @@
 #include <SoftwareSerial.h>
 
 /*
-  Duplex communication (chat) between two computers (systems) using a virtual serial interface
+  Duplex communication (chat) between two computers (systems) using two Arduino UNO boards
   >>> One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
-  >>> Serial.h: The main serial interface for communication between Arduino and our systems
+  >>> Serial.h: The main serial interface for communication between Arduino UNO and our systems
   >>> SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
+  >>> Note: To connect two Arduino boards, they must have a common ground
 */
 
 // SoftwareSerial pins (RX, TX)

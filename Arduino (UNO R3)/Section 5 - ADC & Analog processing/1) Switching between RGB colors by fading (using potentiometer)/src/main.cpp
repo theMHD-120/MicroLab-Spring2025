@@ -1,9 +1,7 @@
 #include <Arduino.h>
 
 /*
-  Switching between RGB colors with fading
-  >>> Using a potentiometer as analog input
-  >>> Input range value (as digital value): 0-1023
+  Switching between RGB colors with fading (using a potentiometer as in section 4)
 */
 
 const int BLU_PIN = 9;
