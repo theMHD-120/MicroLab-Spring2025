@@ -35,7 +35,7 @@ The main objective of this course is to review basic topics in microcontrollers,
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
-  - PDF [link](https://drive.google.com/file/d/1hW_fd6I6SuSR0mSpq4YUz-pJHqwpwPDm/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1BeGIuFjDldeWwSbn1EGWh3k3h2_FfQ01/view?usp=sharing)
 - Main content    
   - Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
   - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
@@ -48,14 +48,14 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 2 - Push button states & PWM
 **Content provided:**
 - Canva publick view [link](https://www.canva.com/design/DAGjRY4AkSE/RXoEpOyIN_eVSMBpDlvxmA/view?utm_content=DAGjRY4AkSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf274450b30#7)
-- PDF [link](https://drive.google.com/file/d/1h39qJdieTZxHhsJIbT-3f0fFI58-0FQ8/view?usp=sharing)
+- PDF [link](https://drive.google.com/file/d/1xAgcppeKe8aA__9eMCbrW22busO3XQQ4/view?usp=sharing)
 
 **Tests performed:**
 - Toggle the LED state and modifying (correcting) its functionality using <code>delay()</code> instruction & Two flags
   - The best delay value is achieved through trial and error (due to the spring structure of the push-button, its value may vary)
   - Two flags for previous & current state of push-button
   - This method works for push-button with both types of resistors (pull-up and pull-down); you can check  
-- A three-bit counter that counts with each click on the push-button
+- Design a three-bit counter that counts with each click on the push-button
   - Using previous push-button modifications (delay and flags)
 - Adjusting LED brightness using Pulse-Width-Modulation (PWM as a timer/counter mode)
   - The output is based on the duty cycle (to adjust LED brightness, armature speed, or...)
@@ -65,7 +65,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 3 - The Serial communication feature
 **Content provided:**
 - Canva publick view [link](https://www.canva.com/design/DAGkIHUE7HI/ufmnT9i3kL-Z994-q75gwA/view?utm_content=DAGkIHUE7HI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habdb5c5a64)
-- PDF [link](https://drive.google.com/file/d/13id41LRUTzm33Sfs6xXdrhpfH5QWYzwp/view?usp=sharing)
+- PDF [link](https://drive.google.com/file/d/1iLs9HTNM4fbQ4QSHL8McAJpe4orvyfSD/view?usp=sharing)
 - Review of UART protocol commands:
   - Video [link](https://drive.google.com/file/d/1yyAbaujDyBLNi8c2ACwc9cjFka41WoFP/view?usp=sharing) 
 
@@ -83,7 +83,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 4 - RGB LED interfacing (ADC preview)
 **Content provided:**
 - Canva publick view [link](https://www.canva.com/design/DAGmabzd5tY/C6HXeW7UTUQ9xxLqCyyEdA/view?utm_content=DAGmabzd5tY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8520a416c3)
-- PDF [link](https://drive.google.com/file/d/19qMYNZHT5CoWjkFuKTUWVN-UxlrTfkw8/view?usp=sharing)
+- PDF [link](https://drive.google.com/file/d/10idQ2qDbPSuzAQTr09sa5DSXeG2Rogu4/view?usp=sharing)
 
 **Tests performed:**
 - Switching between Red-Green-Blue colors and their paired-combinations, like a 3-bit counter
@@ -96,7 +96,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 5 - ADC & Analog processing
 **Content provided:**
 - Canva publick view [link](https://www.canva.com/design/DAGniUkalic/gdKrg_XEj5Rqw-2wJF7-Vg/view?utm_content=DAGniUkalic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5093af7813)
-- PDF [link](https://drive.google.com/file/d/1BeG_RS_Gz6lEs-Fwlk0MNjOd7dRL7jte/view?usp=sharing)
+- PDF [link](https://drive.google.com/file/d/1HC2sMnRcytwEDai-5GOHIn-vSsIpwtmD/view?usp=sharing)
 
 **Tests performed:**
 - Switching between RGB colors with fading (using a potentiometer as in section 4)
@@ -122,10 +122,10 @@ The main objective of this course is to review basic topics in microcontrollers,
 **Content provided:**
 - Introduction to ESP32:  
   - Canva publick view [link](https://www.canva.com/design/DAGoEsV-TJ0/_Als3Q9kh6-sl3G9EnTFXA/view?utm_content=DAGoEsV-TJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c4477d0a2#2)
-  - PDF [link](https://drive.google.com/file/d/14clnr2X-X9kDANPqDNf0kj-0gP3RSDJO/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1tunYROoizPLknInCQAwf1X-i60jwagSf/view?usp=sharing)
 - Main content:
   - Canva publick view [link](https://www.canva.com/design/DAGoReAoYPw/NQ2DqZ6t-h50hczArSH8Kg/view?utm_content=DAGoReAoYPw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5c019d11c)
-  - PDF [link](https://drive.google.com/file/d/1_kvRVCYVDAVNIAR-GBbX2U7f4OQXyHOu/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1lLBe-Mp9HOVXGCtDRKtXYO_soDVtKfgi/view?usp=sharing)
 
 **Test performed:**
 - Sending GET and POST requests to a desired server (ESP32 as a client)
@@ -138,7 +138,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 **Content provided:**
 - Main content:
   - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
-  - PDF [link](https://drive.google.com/file/d/1yHuwImUXdbkfyDJuS-9yY3JXuicI1MUm/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1BS5zDQfUwJELRzmX5GoEdEer1q-YwTaz/view?usp=sharing)
 - Basic introduction to ***Quadcopters*** (for acquaintance):
   - Description link (voice)
   - Featured website link (in voice)
