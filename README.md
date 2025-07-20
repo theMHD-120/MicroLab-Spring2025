@@ -35,10 +35,10 @@ The main objective of this course is to review basic topics in microcontrollers,
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
-  - PDF [link](https://drive.google.com/file/d/1BeGIuFjDldeWwSbn1EGWh3k3h2_FfQ01/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1hW_fd6I6SuSR0mSpq4YUz-pJHqwpwPDm/view?usp=sharing)
 - Main content    
   - Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
-  - PDF [link](https://drive.google.com/file/d/1u9CyxFodi0FbSdO_6hAwBJ_JYfzL4BMD/view?usp=sharing)
+  - PDF [link](https://drive.google.com/file/d/1BeGIuFjDldeWwSbn1EGWh3k3h2_FfQ01/view?usp=sharing)
 
 **Test performed:**
 - Turning ON an LED with a push-button & pull-down resistor
