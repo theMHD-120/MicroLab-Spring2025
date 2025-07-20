@@ -22,6 +22,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 <br />
 
 ## Arduino UNO R3 
+Arduino UNO R3 Datasheet [link]()
 
 <br />![Arduino Get Started](https://github.com/theMHD-120/MicroLab-Spring2025/blob/276a47a9f6e14d625762c3d178d1a7aba0759d9d/Arduino%20(UNO%20R3)/arduino-get-started-logo.svg)
 <br /><br />
@@ -105,7 +106,6 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### UNO R3 Pinuot
 
-Arduino UNO R3 Datasheet [link]()
 ![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
 
 <br />
