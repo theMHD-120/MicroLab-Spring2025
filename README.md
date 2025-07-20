@@ -107,7 +107,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### UNO R3 Pinuot
 
-![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/tree/8157c4d8fe6b9193a4e6ebb484bf8f1d7921f108/Arduino%20(UNO%20R3))
+![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/de0c69cbe4cbc2be81f5a5b831fdcbe4af19388f/Arduino%20(UNO%20R3)/UNO-R3-Pinout.png)
 
 <br />
 
