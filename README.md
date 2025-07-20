@@ -70,7 +70,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 **Tests performed:**
 - Adjusting LED brightness using PWM whose value is determined by serial input
   - Displaying PWM waveforms on the oscilloscope with different duty-cycles (watch here)
-- Duplex communication (chat) between two computers (systems) using a virtual serial interface
+- Duplex communication (chat) between two computers (systems) using two Arduino UNO boards
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - Serial.h: The main serial interface for communication between Arduino and our systems
   - SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
@@ -105,6 +105,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### UNO R3 Pinuot
 
+Arduino UNO R3 Datasheet [link]()
 ![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
 
 <br />
