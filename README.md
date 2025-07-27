@@ -16,7 +16,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Dr. Farshad Khunjush
   
 **Providers (TAs):**
-- Sepehr Azhdari (- [@azhdarii](https://github.com/azhdarii))
+- Sepehr Azhdari ( -[@azhdarii](https://github.com/azhdarii))
 - Seyed Mahdi Mahdavi Mortazavi ([@theMHD-120](https://github.com/theMHD-120))
 
 <br />
