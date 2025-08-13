@@ -4,7 +4,7 @@
 
 /*
   RGB lighting with user-controlled remote control
-  >>> Remote control is done via an HTML page
+  >>> Remote control is done via an HTML page (on the client side)
   >>> ESP32 as a web server can be in Access Point (AP) and Station modes
 */
 
