@@ -148,7 +148,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Running a web server on the ESP32 board (web server initialization)
   - Using <code>WebServer.h</code> library
 - RGB lighting with user-controlled remote control
-  - Remote control is done via an HTML page
+  - Remote control is done via an HTML page (on the client side)
   - ESP32 as a web server can be in Access Point (AP) and Station modes
   - To view the output result of this test, click here
 
@@ -157,4 +157,5 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
