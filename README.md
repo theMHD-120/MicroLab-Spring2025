@@ -23,6 +23,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ## Arduino UNO R3 
 
+
 <br />![Arduino Get Started](https://github.com/theMHD-120/MicroLab-Spring2025/blob/276a47a9f6e14d625762c3d178d1a7aba0759d9d/Arduino%20(UNO%20R3)/arduino-get-started-logo.svg)
 <br />
 #### Arduino UNO R3 Datasheet [link](https://drive.google.com/file/d/1qiaowyIxvhFONQLKYifag1sKoz3MPgxr/view?usp=sharing)
@@ -74,8 +75,8 @@ The main objective of this course is to review basic topics in microcontrollers,
   - Displaying PWM waveforms on the oscilloscope with different duty-cycles (watch here)
 - Duplex communication (chat) between two computers (systems) using two Arduino UNO boards
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
-  - Serial.h: The main serial interface for communication between Arduino and our systems
-  - SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
+  - <code>Serial.h</code>: The main serial interface for communication between Arduino and our systems
+  - <code>SoftwareSerial.h</code>: The virtual serial interface for communication between two Arduino boards
   - Note: To connect two Arduino boards, they must have a common ground
 
 <br />
@@ -107,7 +108,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### UNO R3 Pinuot
 
-![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/52e60a5b85a50e0807ed637e16060c56cc4d795f/Arduino%20(UNO%20R3)/UNO%20R3%20Pinout.png)
+![UNO R3 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/de0c69cbe4cbc2be81f5a5b831fdcbe4af19388f/Arduino%20(UNO%20R3)/UNO-R3-Pinout.png)
 
 <br />
 
@@ -147,7 +148,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Running a web server on the ESP32 board (web server initialization)
   - Using <code>WebServer.h</code> library
 - RGB lighting with user-controlled remote control
-  - Remote control is done via an HTML page
+  - Remote control is done via an HTML page (on the client side)
   - ESP32 as a web server can be in Access Point (AP) and Station modes
   - To view the output result of this test, click here
 
@@ -156,3 +157,5 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
+
