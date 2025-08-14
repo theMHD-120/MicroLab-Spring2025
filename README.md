@@ -77,7 +77,7 @@ The main objective of this course is to review basic topics in microcontrollers,
   - One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   - <code>Serial.h</code>: The main serial interface for communication between Arduino and our systems
   - <code>SoftwareSerial.h</code>: The virtual serial interface for communication between two Arduino boards
-  - Note: To connect two Arduino boards, they must have a ***common ground***
+  - Note: To connect two Arduino boards and to exchange data between them, they must have a ***common ground***
 
 <br />
 
@@ -157,6 +157,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
 
 
