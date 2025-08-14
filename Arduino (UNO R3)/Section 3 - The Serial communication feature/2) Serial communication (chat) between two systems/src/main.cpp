@@ -6,7 +6,8 @@
   >>> One Arduino as the transmitter and another Arduino as the receiver (and vice versa)
   >>> Serial.h: The main serial interface for communication between Arduino UNO and our systems
   >>> SoftwareSerial.h: The virtual serial interface for communication between two Arduino boards
-  >>> Note: To connect two Arduino boards, they must have a common ground
+  >>> Note: To connect two Arduino boards and to exchange data between them, they must have a common ground
+
 */
 
 // SoftwareSerial pins (RX, TX)
