@@ -24,7 +24,7 @@ const int BLU_PIN = 2;
 // Initialize (create) a web server on the standard HTTP port number (80)
 WebServer server(80);
 
-// The HTML page (UI) - live submission (with sliders - not explained in slide!)
+// The HTML page (UI) - live submission (with sliders - not explained on the slide!)
 const char* htmlPage = R"rawliteral(
 <!DOCTYPE html>
 <html>
