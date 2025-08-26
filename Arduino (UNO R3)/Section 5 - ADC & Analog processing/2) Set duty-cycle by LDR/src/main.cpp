@@ -21,7 +21,7 @@ void loop() {
   Serial.print("-------");
 
   // Input voltage
-  Serial.println(digitalVal*5.00/1023.00);
+  Serial.println(digitalVal * 5.00 / 1023.00);
 
   // PWM
   analogWrite(11, pwmVal);

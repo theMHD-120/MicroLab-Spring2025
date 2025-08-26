@@ -21,19 +21,19 @@ void loop() {
   float inpVal = analogRead(A0);
   
   if (inpVal <= 341) {
-    RGB_val = (inpVal * 255)/361;
+    RGB_val = (inpVal * 255) / 361;
     analogWrite(BLU_PIN, RGB_val);
     analogWrite(RED_PIN, 255 - RGB_val);
   }
   else if (inpVal <= 682) {
     inpVal -= 341;
-    RGB_val = (inpVal * 255)/361;
+    RGB_val = (inpVal * 255) / 361;
     analogWrite(RED_PIN, RGB_val);
     analogWrite(GRN_PIN, 255 - RGB_val);
   }
   else if (inpVal <= 1023) {
     inpVal -= 682;
-    RGB_val = (inpVal * 255)/361;
+    RGB_val = (inpVal * 255) / 361;
     analogWrite(GRN_PIN, RGB_val);
     analogWrite(BLU_PIN, 255 - RGB_val);
   }

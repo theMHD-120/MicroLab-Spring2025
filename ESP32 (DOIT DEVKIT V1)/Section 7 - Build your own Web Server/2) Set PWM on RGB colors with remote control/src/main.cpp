@@ -73,7 +73,7 @@ const char* htmlPage = R"rawliteral(
 </html>
 )rawliteral";
 
-// The HTML page (UI) - submission with sumbit key (explained in slides 17&18)
+// The HTML page (UI) - submission with sumbit key (explained in slides 17 & 18)
 // const char* htmlPage = R"rawliteral(
 // <!DOCTYPE html>
 // <html>
