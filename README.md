@@ -32,7 +32,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 1 - Arduino intro & General IO devices
 **Content provided:**
 - Basic videos:
-  - PlatformIO installation link
+  - PlatformIO introduction [link](https://drive.google.com/file/d/1CmHbSr3d8JdejPFAHxJnfeGXFM0AbKDQ/view?usp=sharing)
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
   - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
@@ -157,6 +157,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
 
 
