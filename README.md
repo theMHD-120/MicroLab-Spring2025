@@ -143,7 +143,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 - Introduction to ***Quadcopters*** (for acquaintance):
   - Description [link](https://drive.google.com/file/d/1Rwwf3eMv2yX1-liaQQyhWiFlkxgKE0Bv/view?usp=sharing) (voice)
   - Slides (PDF) [link](https://drive.google.com/file/d/1lPlFTwAPtKjqCP7q5f4MazemlZM2KCWp/view?usp=sharing)
-  - Featured website (**Robeex**) links:
+  - Featured website links:
     - [Robeex.com](https://robeex.com/#start)
     - [Robeex.ir](https://robeex.ir/#start)
 
@@ -160,6 +160,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
 
 
