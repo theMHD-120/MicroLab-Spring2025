@@ -144,8 +144,8 @@ The main objective of this course is to review basic topics in microcontrollers,
   - Description [link](https://drive.google.com/file/d/1Rwwf3eMv2yX1-liaQQyhWiFlkxgKE0Bv/view?usp=sharing) (voice)
   - Slides (PDF) [link](https://drive.google.com/file/d/1lPlFTwAPtKjqCP7q5f4MazemlZM2KCWp/view?usp=sharing)
   - Featured website (**Robeex**) links:
-    - English [link](https://robeex.com/#start)
-    - Persian [link](https://robeex.ir/#start)
+    - [Robeex.com](https://robeex.com/#start)
+    - [Robeex.ir](https://robeex.ir/#start)
 
 **Tests performed:**
 - Running a web server on the ESP32 board (web server initialization)
@@ -160,6 +160,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
 
 
