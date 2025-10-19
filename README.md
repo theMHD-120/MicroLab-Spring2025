@@ -35,10 +35,10 @@ The main objective of this course is to review basic topics in microcontrollers,
   - PlatformIO introduction [link](https://drive.google.com/file/d/1CmHbSr3d8JdejPFAHxJnfeGXFM0AbKDQ/view?usp=sharing)
   - Course introduction [link](https://drive.google.com/file/d/1NQF94yWUDEyneCfP4RTmwCZSdzIJdG-n/view?usp=sharing)
 - Introduction to Arduino UNO:
-  - Canva publick view [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
+  - Canva publick view (slides) [link](https://www.canva.com/design/DAGhLHhtPn8/tj5uUmWQ1uDRQcbmH4uYIA/view?utm_content=DAGhLHhtPn8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2e096e47c3)
   - PDF file [link](https://drive.google.com/file/d/1hW_fd6I6SuSR0mSpq4YUz-pJHqwpwPDm/view?usp=sharing)
 - Main content    
-  - Canva publick view [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
+  - Canva publick view (slides) [link](https://www.canva.com/design/DAGg3OlQojs/r9zFD8eU16jt_K4U1MJPjA/view?utm_content=DAGg3OlQojs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7513a31bfc)
   - PDF file [link](https://drive.google.com/file/d/1BeGIuFjDldeWwSbn1EGWh3k3h2_FfQ01/view?usp=sharing)
 
 **Test performed:**
@@ -48,7 +48,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### Section 2 - Push button states & PWM
 **Content provided:**
-- Canva publick view [link](https://www.canva.com/design/DAGjRY4AkSE/RXoEpOyIN_eVSMBpDlvxmA/view?utm_content=DAGjRY4AkSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf274450b30#7)
+- Canva publick view (slides) [link](https://www.canva.com/design/DAGjRY4AkSE/RXoEpOyIN_eVSMBpDlvxmA/view?utm_content=DAGjRY4AkSE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf274450b30)
 - PDF file [link](https://drive.google.com/file/d/1xAgcppeKe8aA__9eMCbrW22busO3XQQ4/view?usp=sharing)
 
 **Tests performed:**
@@ -65,7 +65,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### Section 3 - The Serial communication feature
 **Content provided:**
-- Canva publick view [link](https://www.canva.com/design/DAGkIHUE7HI/ufmnT9i3kL-Z994-q75gwA/view?utm_content=DAGkIHUE7HI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habdb5c5a64)
+- Canva publick view (slides) [link](https://www.canva.com/design/DAGkIHUE7HI/ufmnT9i3kL-Z994-q75gwA/view?utm_content=DAGkIHUE7HI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=habdb5c5a64)
 - PDF file [link](https://drive.google.com/file/d/1iLs9HTNM4fbQ4QSHL8McAJpe4orvyfSD/view?usp=sharing)
 - Review of UART protocol commands:
   - Video [link](https://drive.google.com/file/d/1yyAbaujDyBLNi8c2ACwc9cjFka41WoFP/view?usp=sharing) 
@@ -83,7 +83,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### Section 4 - RGB LED interfacing (ADC preview)
 **Content provided:**
-- Canva publick view [link](https://www.canva.com/design/DAGmabzd5tY/C6HXeW7UTUQ9xxLqCyyEdA/view?utm_content=DAGmabzd5tY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8520a416c3)
+- Canva publick view (slides) [link](https://www.canva.com/design/DAGmabzd5tY/C6HXeW7UTUQ9xxLqCyyEdA/view?utm_content=DAGmabzd5tY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8520a416c3)
 - PDF file [link](https://drive.google.com/file/d/10idQ2qDbPSuzAQTr09sa5DSXeG2Rogu4/view?usp=sharing)
 
 **Tests performed:**
@@ -96,7 +96,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 
 ### Section 5 - ADC & Analog processing
 **Content provided:**
-- Canva publick view [link](https://www.canva.com/design/DAGniUkalic/gdKrg_XEj5Rqw-2wJF7-Vg/view?utm_content=DAGniUkalic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5093af7813)
+- Canva publick view (slides) [link](https://www.canva.com/design/DAGniUkalic/gdKrg_XEj5Rqw-2wJF7-Vg/view?utm_content=DAGniUkalic&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5093af7813)
 - PDF file [link](https://drive.google.com/file/d/1HC2sMnRcytwEDai-5GOHIn-vSsIpwtmD/view?usp=sharing)
 
 **Tests performed:**
@@ -122,10 +122,10 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 6 - Getting started with ESP32 & WiFi connection
 **Content provided:**
 - Introduction to ESP32:  
-  - Canva publick view [link](https://www.canva.com/design/DAGoEsV-TJ0/_Als3Q9kh6-sl3G9EnTFXA/view?utm_content=DAGoEsV-TJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c4477d0a2#2)
+  - Canva publick view (slides) [link](https://www.canva.com/design/DAGoEsV-TJ0/_Als3Q9kh6-sl3G9EnTFXA/view?utm_content=DAGoEsV-TJ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9c4477d0a2)
   - PDF file [link](https://drive.google.com/file/d/1tunYROoizPLknInCQAwf1X-i60jwagSf/view?usp=sharing)
 - Main content:
-  - Canva publick view [link](https://www.canva.com/design/DAGoReAoYPw/NQ2DqZ6t-h50hczArSH8Kg/view?utm_content=DAGoReAoYPw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5c019d11c)
+  - Canva publick view (slides) [link](https://www.canva.com/design/DAGoReAoYPw/NQ2DqZ6t-h50hczArSH8Kg/view?utm_content=DAGoReAoYPw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5c019d11c)
   - PDF file [link](https://drive.google.com/file/d/1lLBe-Mp9HOVXGCtDRKtXYO_soDVtKfgi/view?usp=sharing)
 
 **Test performed:**
@@ -138,7 +138,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### Section 7 - Build your own Web Server
 **Content provided:**
 - Main content:
-  - Canva publick view [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d#7)
+  - Canva publick view (slides) [link](https://www.canva.com/design/DAGow1au9-4/WGTHUWFKQZgF3xll34tsZw/view?utm_content=DAGow1au9-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcae30fb4d)
   - PDF file [link](https://drive.google.com/file/d/1BS5zDQfUwJELRzmX5GoEdEer1q-YwTaz/view?usp=sharing)
 - Introduction to ***Quadcopters*** (for acquaintance):
   - Description [link](https://drive.google.com/file/d/1Rwwf3eMv2yX1-liaQQyhWiFlkxgKE0Bv/view?usp=sharing) (voice)
@@ -160,6 +160,7 @@ The main objective of this course is to review basic topics in microcontrollers,
 ### DOIT DEVKIT V3 Pinuot
 
 ![DOIT DEVKIT V1 Schematic](https://github.com/theMHD-120/MicroLab-Spring2025/blob/dcf79294531f6a834f58f122080c75b8a876ae4a/ESP32%20(DOIT%20DEVKIT%20V1)/DOIT-DEVKIT-V1-Pinout.png)
+
 
 
 
